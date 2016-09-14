@@ -1,0 +1,23 @@
+{
+  "name": "nog-css-reset",
+  "description": "CSS Reset for NightOwl GUI.",
+  "authors": [
+    "Chris Anderson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "reset",
+    "stylus"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightowlware/nog-css-reset.git"
+  },
+  "homepage": "https://github.com/nightowlware/nog-css-reset",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
