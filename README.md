@@ -1,7 +1,5 @@
 # nog-css-reset
-CSS Reset for NightOwl GUI.
+This is the official CSS Reset package for the NightOwl GUI (nog).
 
-This CSS Reset requires the use of the stylus css
+Currently this reset requires the use of the stylus css
 preprocessor: http://stylus-lang.com/.
-
-Just a test.
